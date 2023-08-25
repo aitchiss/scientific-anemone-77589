@@ -26,6 +26,10 @@ topSections:
           - pr-4
         justifyContent: flex-start
     type: FeaturedPostsSection
+    badge:
+      type: Badge
+      label: something
+      color: text-primary
 styles:
   title:
     textAlign: center
