@@ -174,7 +174,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 2
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
