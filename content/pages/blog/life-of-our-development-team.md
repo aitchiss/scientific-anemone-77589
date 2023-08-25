@@ -1,7 +1,7 @@
 ---
 title: A Day in the Life of Our Development Team
 slug: life-of-our-development-team
-date: ''
+date: '2023-04-27'
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
   earum corporis id Quis esse est galisum officiis accusantium enim et
