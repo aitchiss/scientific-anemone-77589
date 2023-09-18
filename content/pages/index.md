@@ -612,6 +612,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/abstract-background.svg
   - title:
       text: Generic Section With A Form
       color: text-dark
