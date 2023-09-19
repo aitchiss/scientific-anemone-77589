@@ -41,7 +41,7 @@ sections:
       color: text-primary
       type: Badge
     elementId: ''
-    colors: something
+    colors: bla
     styles:
       self:
         alignItems: center
