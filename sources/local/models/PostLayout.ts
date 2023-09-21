@@ -54,7 +54,7 @@ export const PostLayout: Model = {
             required: false,
             hidden: false,
             localized: false,
-            models: ['Person']
+            models: ['Person', 'Social']
         },
         {
             type: 'string',
