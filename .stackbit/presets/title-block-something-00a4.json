@@ -1,0 +1,27 @@
+{
+    "model": "TitleBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "something",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "new-category"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "text": "Key Benefits",
+                "color": "text-dark",
+                "styles": {
+                    "self": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/title-block-something-00a4.png"
+        }
+    ]
+}
