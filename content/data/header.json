@@ -4,7 +4,9 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -88,7 +90,7 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
