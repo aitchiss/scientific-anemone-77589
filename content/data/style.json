@@ -58,8 +58,8 @@
         "weight": "medium",
         "case": "none",
         "letterSpacing": "normal",
-        "borderRadius": "DEFAULT",
-        "shadow": "md",
+        "borderRadius": "full",
+        "shadow": "none",
         "horizontalPadding": 30,
         "verticalPadding": 12,
         "type": "ThemeStyleButton"
