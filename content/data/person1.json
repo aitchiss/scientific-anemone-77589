@@ -32,5 +32,8 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n",
+    "test enum checkbox": [
+        "one"
+    ]
 }
