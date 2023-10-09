@@ -19,7 +19,7 @@ sections:
     actions:
       - label: See open positions
         url: /
-        icon: arrowRight
+        icon: arrowDown
         iconPosition: right
         style: primary
         type: Button
