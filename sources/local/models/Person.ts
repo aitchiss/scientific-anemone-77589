@@ -108,6 +108,18 @@ export const Person: Model = {
             group: 'settings'
         },
         {
+            type: 'list',
+            name: 'test enum checkbox',
+            controlType: 'checkbox',
+            items: {
+                type: 'enum',
+                options: [
+                    { label: 'One', value: 'one' },
+                    { label: 'Two', value: 'two' }
+                ]
+            }
+        },
+        {
             type: 'style',
             name: 'styles',
             label: 'Styles',
