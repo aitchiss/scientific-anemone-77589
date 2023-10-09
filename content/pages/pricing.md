@@ -116,6 +116,10 @@ sections:
       subtitle:
         textAlign: center
     type: PricingSection
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Stackbit.
