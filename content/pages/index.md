@@ -252,7 +252,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
+        elementId: ' '
         type: Button
     badge:
       label: This is a badge
