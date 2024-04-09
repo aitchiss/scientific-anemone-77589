@@ -97,10 +97,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
