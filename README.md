@@ -1,6 +1,6 @@
 # A New Stackbit Project
 
-Welcome to your new project created with Stackbit!
+Welcome to your new project created with Stackbit! ABC
 
 Here are a few useful tips & links:
 
